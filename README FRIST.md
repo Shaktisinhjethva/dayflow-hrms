@@ -15,3 +15,9 @@ View your app in AI Studio: https://ai.studio/apps/drive/1zGcICfz5nLxfYQQ71rbTuB
 3. Run the app:
    `npm run dev`
 
+1. live website link
+   https://dayflow-hrms-1.onrender.com/
+2. to check usage
+    id :- Admin123@gmail.com
+   pass:- Admin@123
+   
