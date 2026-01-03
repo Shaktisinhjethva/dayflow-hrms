@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dayflow HRMS",
+  "description": "A comprehensive Human Resource Management System for streamlining onboarding, attendance, leave management, and payroll visibility with role-based access for Admins and Employees.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
